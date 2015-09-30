@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="WildcardC" APIVersion="9" Name="Grid" Description="Comprehensive healing/dispelling unit frames with mouse-over targeting">
+    <Script Name="Grid.lua"/>
+    <Form Name="Grid.xml"/>
+    <Script Name="GridEnum.lua"/>
+    <Script Name="Util.lua"/>
+    <Script Name="DefaultSettings.lua"/>
+    <Script Name="Options.lua"/>
+    <Script Name="OptionCategories.lua"/>
+    <Form Name="Options.xml"/>
+    <Script Name="FreeColorPicker.lua"/>
+    <Form Name="FreeColorPicker.xml"/>
+</Addon>

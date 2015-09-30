@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="FrameIndicator" Cycle="1">
+        <Frame Texture="Textures\frameindicator.tga" x0="0" x1="0" x2="64" x3="64" x4="64" x5="64" y0="0" y1="0" y2="64" y3="64" y4="64" y5="64" Stretchy="1" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="FrameIndicatorBleed" Cycle="1">
+        <Frame Texture="Textures\frameindicatorbleed.tga" x0="0" x1="0" x2="64" x3="64" x4="64" x5="64" y0="0" y1="0" y2="64" y3="64" y4="64" y5="64" Stretchy="1" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="SimpleIndicator" Cycle="1">
+        <Frame Texture="Textures\simpleindicator.tga" x0="0" x1="0" x2="64" x3="64" x4="64" x5="64" y0="0" y1="0" y2="64" y3="64" y4="64" y5="64" Stretchy="1" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="SimpleIndicatorFixedBorder" Cycle="1">
+        <Frame Texture="Textures\simpleindicator.tga" x0="0" x1="0" x2="0" x3="4" x4="60" x5="64" y0="0" y1="0" y2="0" y3="4" y4="60" y5="64" Stretchy="1" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="SimpleBorder" Cycle="1">
+        <Frame Texture="Textures\simpleborder.tga" x0="0" x1="0" x2="64" x3="64" x4="64" x5="64" y0="0" y1="0" y2="64" y3="64" y4="64" y5="64" Stretchy="1" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="SpotGradient" Cycle="1">
+        <Frame Texture="Textures\spotgradient.tga" x0="0" x1="0" x2="64" x3="64" x4="64" x5="64" y0="0" y1="0" y2="64" y3="64" y4="64" y5="64" Stretchy="1" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+</Sprites>

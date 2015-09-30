@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="hs1plot" Cycle="1">
+        <Frame Texture="FreeColorPickerTextures\hs1plot.tga" x0="0" x1="0" x2="256" x3="256" x4="256" x5="256" y0="0" y1="0" y2="256" y3="256" y4="256" y5="256" Stretchy="0" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="bwgradient" Cycle="1">
+        <Frame Texture="FreeColorPickerTextures\bwgradient.tga" x0="0" x1="0" x2="20" x3="20" x4="20" x5="20" y0="0" y1="0" y2="256" y3="256" y4="256" y5="256" Stretchy="0" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="smallcircleborder" Cycle="1">
+        <Frame Texture="FreeColorPickerTextures\smallcircleborder.tga" x0="0" x1="0" x2="7" x3="7" x4="7" x5="7" y0="0" y1="0" y2="7" y3="7" y4="7" y5="7" Stretchy="0" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="smallframedarrow" Cycle="1">
+        <Frame Texture="FreeColorPickerTextures\smallframedarrow.tga" x0="0" x1="0" x2="5" x3="5" x4="5" x5="5" y0="0" y1="0" y2="9" y3="9" y4="9" y5="9" Stretchy="0" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="transpbg" Cycle="1">
+        <Frame Texture="FreeColorPickerTextures\transpbg.tga" x0="0" x1="0" x2="20" x3="20" x4="20" x5="20" y0="0" y1="0" y2="256" y3="256" y4="256" y5="256" Stretchy="0" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="transpgradient" Cycle="1">
+        <Frame Texture="FreeColorPickerTextures\transpgradient.tga" x0="0" x1="0" x2="20" x3="20" x4="20" x5="20" y0="0" y1="0" y2="256" y3="256" y4="256" y5="256" Stretchy="0" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+</Sprites>
